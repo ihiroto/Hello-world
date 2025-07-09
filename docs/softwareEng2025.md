@@ -1,3 +1,28 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2025
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 第１回\
 ソフトウェア工学の難しいところ、システムの改良などのソフトウェア工学の活用事例について学んだ。\
 第２回\
